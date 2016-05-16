@@ -1,0 +1,12 @@
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\d.Log.dll
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\d.Log.pdb
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\Microsoft.SharePoint.dll
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\Microsoft.SharePoint.Search.dll
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\Microsoft.Web.CommandUI.dll
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\Microsoft.SharePoint.Security.dll
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\Microsoft.SharePoint.xml
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\Microsoft.SharePoint.Search.xml
+E:\YandexDisk\GitHub\d.Log\d.Log\bin\Debug\Microsoft.SharePoint.Security.xml
+E:\YandexDisk\GitHub\d.Log\d.Log\obj\Debug\d.Log.csprojResolveAssemblyReference.cache
+E:\YandexDisk\GitHub\d.Log\d.Log\obj\Debug\d.Log.dll
+E:\YandexDisk\GitHub\d.Log\d.Log\obj\Debug\d.Log.pdb
